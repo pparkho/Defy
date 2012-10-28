@@ -413,7 +413,7 @@
 	<string name="separate_from_conference">Индивидуальный вызов</string>
 	<string name="notification_ongoing_calling_format">Вызываю (%s)</string>
 	<string name="sliding_target_hint">Сдвиньте вверх, для отклонения/отправки смс</string>
-	<string name="sliding_down_hint">Сдвиньте вниз для ответа</string>
+	<string name="sliding_down_hint">Сдвиньте для ответа</string>
   <string name="sliding_up_hint">Сдвиньте вверх, чтобы отклонить</string>
 	<string name="answer">Ответ</string>
 	<string name="answer_and_hangup">Окончание вызова и ответ</string>
