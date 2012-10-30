@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Панель управления</string>
+    <string name="show_battery_title">Показывать батарею</string>
+    <string name="show_battery_summary">Выключите, чтобы скрыть батарею</string>
+    <string name="statusbar_layout">Расположение статусбара</string>
+    <string name="misc_options">Дополнительные настройки</string>
+    <string name="show_clock_title">Показывать часы</string>
+    <string name="show_clock_summary">Выключите, чтобы скрыть часы</string>
+    <string name="notify_adb">Уведомление</string>
+    <string name="notify_adb_summary">Показывать уведомление о включенной отладке</string>
+    <string name="show_carrier_title">Показывать оператора</string>
+    <string name="show_carrier_summary">Выключите, чтобы скрыть оператора</string>
+    <string name="custom_carrier">Свой оператор</string>
+    <string name="custom_carrier_summary">Задайте свое имя оператора</string>
+    <string name="custom_carrier_text">Имя оператора</string>
+    <string name="custom_carrier_logo">Логотип оператора</string>
+    <string name="custom_carrier_logo_summary">Показывать картинку оператора вместо текста</string>
+    <string name="notification_bar_date_format">Формат даты в уведомлениях</string>
+    <string name="lockscreen_date_format">Формат даты на локскрине</string>
+    <string name="date_format_options">Настройки даты</string>
+    <string name="show_alarm_title">Иконка будильника</string>
+    <string name="show_alarm_summary">Выключите, чтобы скрыть иконку будильника</string>
+    <string name="carrier_options">Настройки оператора</string>
+    <string name="clock_colour">Цвет часов</string>
+    <string name="battery_colour">Выбор цвета</string>
+    <string name="battery_indicator_style">Стиль индикатора батареи</string>
+    <string name="carrier_colour">Цвет оператора</string>
+    <string name="title">Настройки статусбара</string>
+    <string name="battery_options">Настройки батареи</string>
+    <string name="clock_options">Настройки часов</string>
+    <string name="about_title">О программе</string>
+    <string name="about_summary">Информация о приложении</string>
+    <string name="clock_format">Формат часов</string>
+    <string name="ui_overscroll_title">Настройки прокрутки</string>
+    <string name="pref_overscroll_title">Эффект прокрутки</string>
+    <string name="pref_overscroll_summary">Стиль прокрутки</string>
+    <string name="pref_overscroll_weight_title">Сила эффекта</string>
+    <string name="pref_overscroll_weight_summary">Величина эффекта</string>
+    <string name="date_help">"Вот некоторые форматы дат:- 
+Для Сентября месяца:
+Вводим M получаем-> 9
+Вводим MM получаем -> 09
+Вводим MMM получаем -> Сен
+Вводим MMMM получаем -> Сентябрь
+
+Пример для седьмой минуты, каждого часа:
+Вводим m получаем -> 7
+Вводим mm получаем -> 07
+Вводим mmm получаем -> 007
+Вводим mmmm получаем -> 0007
+Вводим mmaa получаем -> 07pm
+
+Пример для 6 апреля 1970 года в 3:23 утра:
+MM/dd/yy h:mmaa -> 04/06/70 3:23am
+MMM dd, yyyy h:mmaa -> Апр 6, 1970 3:23am
+MMMM dd, yyyy h:mmaa -> Апреля 6, 1970 3:23am
+E, dd MMMM, yyyy h:mmaa -> Пон, 06 Апреля, 1970 3:23am
+EEEE, dd MMMM, yyyy h:mmaa -> Понедельник, 06 Апреля, 1970 3:23am"</string>
+    <string name="choose_color">Настройки цвета</string>
+    <string name="choose_wallpaper_color">Цвет обоев</string>
+    <string name="use_custom_title">Цвет статусбара</string>
+    <string name="use_custom_summary">Включите для выбора цвета статусбара</string>
+    <string name="choose_statusbar_color">Цвет статусбара</string>
+    <string name="pref_key_resetSettings">pref_key_resetSettings</string>
+    <string name="pref_key_hiddenApps">pref_key_hiddenApps</string>
+    <string name="dialog_resetSettings">Настройки будут сброшены на стандартные. Продолжить?</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="pref_key_statusBarHeight">statusBarHeight</string>
+    <string name="pref_key_root">pref_key_root</string>
+    <string name="app_drawer">Панель приложений</string>
+    <string name="app_drawer_title">Панель приложений</string>
+    <string name="pref_default_appsPerRow">4</string>
+    <string name="pref_title_hiddenApps">Скрытые приложения</string>
+    <string name="pref_summary_hiddenApps">Выберите приложения, чтобы скрыть их в панели</string>
+    <string name="pref_key_pulldownLocation">pref_key_pulldownLocation</string>
+    <string name="pref_title_pulldownLocation">Расположение панели</string>
+    <string name="pref_summary_pulldownLocation">Выберите место вызова панели на экране </string>
+    <string name="pref_key_startonBoot">pref_key_startonBoot</string>
+    <string name="gravity_left">Слева</string>
+    <string name="gravity_right">Справа</string>
+    <string name="gravity_center">По центру</string>
+    <string name="start">Включить</string>
+    <string name="stop">Выключить</string>
+    <string name="done">Применить</string>
+    <string name="cancel">Отмена</string>
+    <string name="check_all">Выделить все</string>
+    <string name="uncheck_all">Снять выделение</string>
+    <string name="loading_apps">Загрузка приложений...</string>
+    <string name="show_headset_title">Иконка гарнитуры</string>
+    <string name="show_headset_summary">Выключите, чтобы скрыть иконку гарнитуры</string>
+    <string name="show_signal_title">Уровень сигнала</string>
+    <string name="show_signal_summary">Выключите, чтобы скрыть уровень сигнала</string>
+    <string name="drawer_colour">Фон панели приложений</string>
+    <string name="version_help">Version 2.1.1 on WIUI</string>
+    <string name="startonBoot">Автозапуск</string>
+    <string name="pref_summary_startonBoot">Выберите, чтобы включить автозапуск панели приложений</string>
+</resources>
