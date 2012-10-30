@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Created with Android Translaton Wizard v0.0.0.165--><resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2" xmlns:android="http://schemas.android.com/apk/res/android">
+<resources>
 	<string name="home_indicator">bottom_point</string>
 	<string name="wallpaper_scrolling">all</string>
+    <string name="sharedUserId" />
+    <string name="process" />
 	<string name="application_name">Рабочий стол</string>
 	<string name="folder_name">Папка</string>
 	<string name="chooser_wallpaper">Выбрать обои из</string>
@@ -34,7 +36,8 @@
 	<string name="menu_sort">Сортировка</string>
 	<string name="menu_launcher_setting">Рабочий стол</string>
 	<string name="editing_tips">Добавить или изменить виджет</string>
-	<string name="cant_remove_system_app">\u0020Это приложение не может быть удалено</string>
+	<string name="cant_remove_system_app">Системное приложение не может быть удалено</string>
+	<string name="cant_remove_retained_app">Приложение оператора не может быть удалено</string>
 	<string name="uninstall_body_format">Удалить приложение \"%s\"?</string>
 	<string name="uninstall">Удалить</string>
 	<string name="cant_remove_folder">Удаление невозможно, папка не пустая</string>
@@ -42,16 +45,19 @@
 	<string name="failed_to_drop_widget_nospace">На экране не хватает места</string>
 	<string name="failed_to_drop_widget_invalid">Добавляемый виджет является недопустимым</string>
 	<string name="failed_to_delete_temporary">Удалить не удалось, повторите попытку позже</string>
-	<string name="widget_favorite_contacts_label">Контакты</string>
+	<string name="widget_favorite_contacts_label">Избранные контакты</string>
 	<string name="widget_favorite_contacts_edit">Изменить</string>
 	<string name="widget_favorite_contacts_style">Вид</string>
-	<string name="edit_folder_title">Изменение</string>
+	<string name="edit_folder_title">Изменить название папки</string>
 	<string name="confirm_btn_label">ОК</string>
 	<string name="cancel_btn_label">Отменить</string>
 	<string name="sort_by_not_defined">По порядку</string>
 	<string name="sort_by_frequency">По популярности</string>
 	<string name="sort_by_abc">По имени</string>
 	<string name="encryption">Шифрование</string>
+	<string name="default_folder_title_tools">Инструменты</string>
+    <string name="default_folder_title_recommend">Рекомендованные</string>
+    <string name="default_folder_title_game">Игры</string>
 	<string name="preferences_title">Параметры рабочего стола</string>
 	<string name="preferences_general_title">Основные настройки</string>
 	<string name="pref_keep_in_memory_title">Держать в памяти</string>
@@ -74,29 +80,33 @@
 	<string name="widget_gadget_player">Музыка</string>
 	<string name="buffering">Буферизация…</string>
 	<string name="emptyplaylist">Плейлист пуст</string>
-	<string name="sdcard_missing_title">SD-карта отсутсвует</string>
-	<string name="sdcard_busy_title">SD-карта недоступна</string>
 	<string name="unknown_artist_name">Неизвестный артист</string>
 	<string name="global_search_hint">Нажмите для начала поиска</string>
 	<string name="widget_global_search">Поиск</string>
-	<string name="gadget_clock_12_label">Часы</string>
-	<string name="gadget_clock_22_label">Часы</string>
-	<string name="gadget_clock_24_label">Часы</string>
-	<string name="gadget_photo_44_label">Фоторамка</string>
-	<string name="gadget_photo_22_label">Фоторамка</string>
-	<string name="gadget_photo_24_label">Фоторамка</string>
+	<string name="gadget_clock_12_label">Часы 1х2</string>
+	<string name="gadget_clock_22_label">Часы 2х2</string>
+	<string name="gadget_clock_24_label">Часы 2х4</string>
+	<string name="gadget_photo_44_label">Фоторамка 4х4</string>
+	<string name="gadget_photo_22_label">Фоторамка 2х2</string>
+	<string name="gadget_photo_24_label">Фоторамка 2х4</string>
 	<string name="gadget_load_error">Ошибка загрузки виджета...</string>
-	<string name="invalid_contact_shortcut">Недопустимый ярлык</string>
+	<string name="invalid_contact_shortcut">Недопустимый ярлык контакта</string>
 	<string name="guide_tips_editing_mode">Нажмите на иконку виджета и перетащите на рабочий стол</string>
 	<string name="durationformatshort">%2$2d:%5$02d</string>
 	<string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
 	<string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
 	<string name="pref_wallpaper_scroll">Прокрутка обоев</string>
-	<string name="preferences_custom_title">Настройки обоев</string>
+	<string name="preferences_custom_title">Персональные настройки</string>
 	<string name="wallpaper_scroll_summary">Выключите, чтобы отключить прокрутку обоев</string>
 	<string name="auto_close">Автозакрытие папки</string>
 	<string name="auto_close_summary">Выключите, чтобы запретить автоматическое закрытие папки</string>
 	<string name="icon_label">Подписи под иконками</string>
 	<string name="icon_label_summary">Выключите, чтобы скрыть подписи под иконками</string>
-	<string name="indicator_style">Индикатор столов</string>
+<string name="launcher_grid_title">Сетка рабочего стола</string>
+    <string name="launcher_grid_rows_title">Строки</string>
+    <string name="launcher_grid_rows_summary">Число строк на рабочем столе</string>
+    <string name="launcher_grid_cols_title">Колонки</string>
+    <string name="launcher_grid_cols_summary">Число колонок на рабочем столе</string>
+    <string name="pref_restart_title">Перезагрузить рабочий стол</string>
+    <string name="pref_restart_summary">Необходимо для применения настроек сетки рабочего стола</string>
 </resources>
