@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калибровка компаса</string>
+    <string name="calibrator_inst_title">Калибровка</string>
+    <string name="calibrator_inst">Вращайте телефон восьмеркой во всех возможных направлениях. Компас будет откалиброван, когда изображение станет зеленого цвета..</string>
+    <string name="calibrator_face_title">Откалибровано.</string>
+    <string name="calibrator_horizontal_inst">Выдвиньте клавиатуру для калибровки с открытой клавиатурой.</string>
+    <string name="calibrator_vertical_inst">Задвиньте клавиатуру для калибровки с закрытой клавиатурой.</string>
+    <string name="calibrator_quit_inst">Или нажмите выход, если компас откалиброван во всех положениях.</string>
+    <string name="calibrator_start_button">Калибровка</string>
+    <string name="calibrator__otherface_button">"Калибровка другого положения"</string>
+    <string name="calibrator_quit_button">Выход</string>
+    <string name="calibrator_done_quit_inst">Калибровка завершена. Нажмите выход.</string>
+    <string name="calibrator_fail_message">Калибровка не удалась. Повторите заново.</string>
+    <string name="calibrator_ani_inst">Вращайте телефон вперед и назад по трем осям, пока изображение не станет зеленым.</string>
+</resources>

@@ -1508,4 +1508,5 @@ LED-индикатора"</string>
 	<string name="miui_copyright_title">Авторские права</string>
 	<string name="miui_user_agreement_title">Пользовательское соглашение</string>
 	<string name="miui_privacy_policy_title">Политика конфиденциальности</string>
+	<string name="compass_calibrate">Калибровка компаса</string>
 </resources>

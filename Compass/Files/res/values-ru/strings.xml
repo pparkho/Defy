@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Компас</string>
+    <string name="getting_location">Определение местоположения...</string>
+    <string name="cannot_get_location">Не удается определить местоположение</string>
+    <string name="location_north">%s С</string>
+    <string name="location_south">%s Ю</string>
+    <string name="location_east">%s В</string>
+    <string name="location_west">%s З</string>
+    <string name="menu_calibrate">Калибровка</string>
+    <string name="dialog_title">Отмена калибровки</string>
+    <string name="dialog_content">Калибровка не завершена. Это может привести к неточности определения местоположения. Точно отменить?</string>
+    <string name="calibrate_success">Калибровка завершена</string>
+</resources>
