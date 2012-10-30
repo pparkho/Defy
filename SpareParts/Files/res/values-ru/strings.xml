@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Дополн. элементы</string>
+    <string name="device_info_title">Информация об устройстве</string>
+    <string name="title_battery_history">История расхода батареи</string>
+    <string name="summary_battery_history">Журнал того, как батарея использовалась</string>
+    <string name="title_battery_information">Информация о батарее</string>
+    <string name="summary_battery_information">Текущая информация о статусе батареи</string>
+    <string name="title_usage_statistics">Статистика использования</string>
+    <string name="summary_usage_statistics">Сводка использования приложения</string>
+    <string name="general_title">Общие</string>
+    <string name="title_window_animations">Анимация окон</string>
+    <string name="summary_window_animations">Скорость анимации в отдельных окнах</string>
+    <string name="dialog_title_window_animations">Выберите скорость окна</string>
+    <string name="title_transition_animations">Анимация переходов</string>
+    <string name="summary_transition_animations">Скорость анимации, перемещения между экранами</string>
+    <string name="dialog_title_transition_animations">Выберите скорость перехода</string>
+    <string name="title_fancy_ime_animations">Необычные анимации</string>
+    <string name="summary_on_fancy_ime_animations">Используйте более необычные анимации для окон</string>
+    <string name="summary_off_fancy_ime_animations">Используйте нормальные анимации для окон</string>
+    <string name="title_haptic_feedback">Обратная связь</string>
+    <string name="summary_on_haptic_feedback">Используйте обратную связь с пользователем</string>
+    <string name="summary_off_haptic_feedback">используйте обратную связь взаимодействия с пользователем</string>
+    <string name="title_font_size">Размер шрифта</string>
+    <string name="summary_font_size">Размер шрифтов везде</string>
+    <string name="dialog_title_font_size">Выберите размер шрифта</string>
+    <string name="title_end_button">Поведение завершающей кнопки</string>
+    <string name="summary_end_button">Выберите завершающее действие (красной) кнопки</string>
+    <string name="dialog_title_end_button">Выберите завершающюю кнопку</string>
+    <string name="applications_title">Приложения</string>
+    <string name="compatibility_mode_title">Режим эмуляции</string>
+    <string name="compatibility_mode_summary_on">Управляйте более старыми приложениями в режиме эмуляции. Требует перезагрузки</string>
+    <string name="compatibility_mode_summary_off">Управляйте более старыми приложениями в режиме эмуляции. Требует перезагрузки</string>
+</resources>
